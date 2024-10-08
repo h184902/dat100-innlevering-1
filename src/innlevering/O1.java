@@ -1,4 +1,4 @@
-10package innlevering;
+package innlevering;
 import static javax.swing.JOptionPane.showInputDialog;
 
 public class O1 {
