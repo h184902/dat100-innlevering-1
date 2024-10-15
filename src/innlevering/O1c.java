@@ -5,7 +5,7 @@ public class O1c {
 
 	public static void main(String[] args) {
 		
-		for(int i = 0; i <2; i++) {
+		for(int i = 0; i <10; i++) {
 		
 		String poengTxt = showInputDialog("poeng du fikk på prøven: ");
 		
